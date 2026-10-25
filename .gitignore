@@ -1,0 +1,9 @@
+# Release binaries are uploaded to GitHub Releases, never committed.
+/release-assets/*
+!/release-assets/README.md
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
