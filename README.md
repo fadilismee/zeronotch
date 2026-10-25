@@ -55,6 +55,36 @@ The installer is currently unsigned. Windows SmartScreen may therefore identify
 it as an unrecognized app. Release notes include the SHA-256 checksum so you can
 verify the downloaded file.
 
+## Usage
+
+After launching zeronotch, open the notch to see the current workspace. Use the
+mode switcher at the top to change between **Kerja** and **Kuliah**; each mode
+keeps its own tools and focus context.
+
+### Kerja
+
+- Open **Beranda** for your quick workspace overview.
+- Use **Fokus** to start a Pomodoro session and track your streak.
+- Open **Utilitas** for File Shelf, Clipboard, Kalkulator, Cermin, and shortcuts.
+- Open **Musik** for compact playback controls and lyrics when available.
+
+### Kuliah
+
+- Open **Kalender** to view your UT schedule after signing in.
+- Use **Modul** to search by module code or title and download the matching file.
+- Use **Fokus** to track study sessions, streak progress, and Kuma.
+- Keep study notes and copied references in **Catatan** and **Clipboard**.
+
+### First-time setup
+
+1. Choose your default opening page in **Pengaturan → Tampilan**.
+2. Sign in to UT only when you want calendar or course data synchronized.
+3. Grant camera permission only when opening **Cermin**.
+4. Configure optional AI or music integrations from their respective settings.
+
+All workspace data stays local unless a feature explicitly connects to an
+external service.
+
 ## Requirements
 
 - Windows 10 or Windows 11, 64-bit
